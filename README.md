@@ -1,3 +1,4 @@
+Angular program uses web sockets to connect to MQTT broker and subscribes to trafic light subject.
 # WebSocketClient
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.3.
